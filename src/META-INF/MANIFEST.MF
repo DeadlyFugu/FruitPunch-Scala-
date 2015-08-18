@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: scala-actors-2.11.0.jar scala-actors-migration_2.11-1.1.0.
+ jar scala-library.jar scala-parser-combinators_2.11-1.0.3.jar scala-r
+ eflect.jar scala-swing_2.11-1.0.1.jar scala-xml_2.11-1.0.3.jar scalat
+ est_2.11-2.2.4.jar
+Main-Class: net.sekien.fruitpunch.FruitPunch
+
